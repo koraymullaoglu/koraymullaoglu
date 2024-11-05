@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Computer Engineering student at Marmara University.<br>42 Istanbul - Common Core Student
 
 
