@@ -5,13 +5,15 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=koraymullaoglu&label=Profile%20views&color=green&style=flat"  alt="Profile Views" />
 </div>
-<h4 align="center" style="font-weight: 300; color: gray;">COMPUTER ENGINEERING - 42 COMMON CORE</h4>
+<h3 align="center"> Computer Engineering | 42 - Common Core Student</h5>
 
 <p align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXA3Zno1cjFmMTRvbmUzc3YxenZua2p6aXEybDdpNWY5MHBjaXNyZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bxxdEyhku8BuoW12I6/giphy.gif" alt="GIF Açıklaması">
 </p>
 
-<h3 align="center">Tech Stack</h3>
+<p align="center"><strong><font size='5'>Tech Stack</strong></p>
+<hr style="margin-top: -10px;">
+
 
 <div align="center">
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
@@ -20,7 +22,9 @@
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
 </div>
 
-<h3 align="center">GitHub Stats</h2>
+<h4 align="center">GitHub Stats</h4>
+<hr style="margin-top: -10px;">
+
 <p align="center">
   <table align="center">
     <tr border="none">
@@ -37,7 +41,8 @@
 </p>
 
 
-<h2 align="center">Contact Me</h2>
+<h4 align="center">Contact Me</h4>
+<hr style="margin-top: -10px;">
 <div align="center">
   <a href="https://www.linkedin.com/in/koraymullaoglu/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
