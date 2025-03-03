@@ -3,7 +3,7 @@
 <h3 align="center">I'm Koray.</h3>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=koraymullaoglu&label=Profile%20views&color=brightgreen&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=koraymullaoglu&label=Profile%20views&color=blue&style=flat" alt="Profile Views" />
 </div>
 <h4 align="center" style="font-weight: 300; color: gray;">COMPUTER ENGINEERING - 42 COMMON CORE</h4>
 
@@ -22,7 +22,7 @@
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
 </div>
 
-<h3 align="center">Github Stats</h2>
+<h3 align="center">GitHub Stats</h2>
 <p align="center">
   <table align="center">
     <tr border="none">
