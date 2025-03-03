@@ -7,9 +7,7 @@
 </div>
 <h4 align="center" style="font-weight: 300; color: gray;">COMPUTER ENGINEERING - 42 COMMON CORE</h4>
 
-<div align="center" style="width: 300px; height: 200px; overflow: hidden;">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXA3Zno1cjFmMTRvbmUzc3YxenZua2p6aXEybDdpNWY5MHBjaXNyZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bxxdEyhku8BuoW12I6/giphy.gif" alt="Your GIF" style="width: 100%; height: 300px; object-fit: cover; object-position: top;" />
-</div>
+![GIF](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXA3Zno1cjFmMTRvbmUzc3YxenZua2p6aXEybDdpNWY5MHBjaXNyZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bxxdEyhku8BuoW12I6/giphy.gif)
 
 <h3 align="center">Tech Stack</h3>
 
