@@ -3,14 +3,14 @@
 <h3 align="center">I'm Koray.</h3>
 
 <div align="center">
-  <img src="" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=koraymullaoglu&label=Profile%20views&color=green&style=flat"  alt="Profile Views" />
 </div>
 <h4 align="center" style="font-weight: 300; color: gray;">COMPUTER ENGINEERING - 42 COMMON CORE</h4>
 
 
 
-<div align="center" style="width: 100; overflow: hidden;">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnA4ajZpMnpydWg2bzMwdnBwYW16cmpqOXg0M2ttZmk0YjQxZnk3NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/u9293Xrizd0tO/giphy.gif" alt="Your GIF" style="width:100%; height: 100px; object-fit: cover;" />
+<div align="center" style="width:120; overflow: hidden;">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnA4ajZpMnpydWg2bzMwdnBwYW16cmpqOXg0M2ttZmk0YjQxZnk3NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/u9293Xrizd0tO/giphy.gif" alt="Your GIF" style="width:100%; height: 200px; object-fit: cover;" />
 </div>
 
 <h3 align="center">Tech Stack</h3>
