@@ -3,7 +3,7 @@
 <h3 align="center">I'm Koray.</h3>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=koraymullaoglu&label=Profile%20views&color=green&style=flat"  alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=koraymullaoglu&label=Profile%20views&color=blue&style=flat"  alt="Profile Views" />
 </div>
 <h3 align="center"> Computer Engineering | 42 - Common Core Student</h3>
 
