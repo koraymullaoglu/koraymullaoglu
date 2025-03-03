@@ -10,7 +10,7 @@
 
 
 <div align="center" style="width: 100; overflow: hidden;">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnA4ajZpMnpydWg2bzMwdnBwYW16cmpqOXg0M2ttZmk0YjQxZnk3NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/u9293Xrizd0tO/giphy.gif" alt="Your GIF" style="width:90%; height: 150px; object-fit: cover;" />
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnA4ajZpMnpydWg2bzMwdnBwYW16cmpqOXg0M2ttZmk0YjQxZnk3NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/u9293Xrizd0tO/giphy.gif" alt="Your GIF" style="width:100%; height: 100px; object-fit: cover;" />
 </div>
 
 <h3 align="center">Tech Stack</h3>
