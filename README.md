@@ -11,7 +11,7 @@
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXA3Zno1cjFmMTRvbmUzc3YxenZua2p6aXEybDdpNWY5MHBjaXNyZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bxxdEyhku8BuoW12I6/giphy.gif" alt="GIF Açıklaması">
 </p>
 
-<p align="center"><strong><font size='5'>Tech Stack</strong></p>
+<p align="center"><strong><font size='6'>Tech Stack</strong></p>
 <hr style="margin-top: -10px;">
 
 
@@ -22,7 +22,7 @@
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
 </div>
 
-<h4 align="center">GitHub Stats</h4>
+<h3 align="center">GitHub Stats</h3>
 <hr style="margin-top: -10px;">
 
 <p align="center">
@@ -41,7 +41,7 @@
 </p>
 
 
-<h4 align="center">Contact Me</h4>
+<h3 align="center">Contact Me</h3>
 <hr style="margin-top: -10px;">
 <div align="center">
   <a href="https://www.linkedin.com/in/koraymullaoglu/" target="_blank">
